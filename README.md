@@ -1,6 +1,6 @@
 # The sext application #
 
-[<img src="http://quickcheck-ci.com/p/uwiger/sext.png" alt="Build Status" width="160px">](http://quickcheck-ci.com/p/uwiger/sext)
+![sext OpenRiak Status](https://github.com/OpenRiak/sext/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.2)
 
 __Authors:__ Ulf Wiger ([`ulf@wiger.net`](mailto:ulf@wiger.net)).
 
